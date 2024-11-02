@@ -3,14 +3,8 @@
 
 
 🌱 I’m currently learning **WEB Development & App Mobile Development**
-<img
-  align="right"
-  alt="Coding"
-  width="300"
-  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
-/>
+<br/>
 
-<br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
@@ -161,11 +155,12 @@
     />
   </a>
 </p>
-<br />
+<br/>
 
 <hr width="36%" />
 
 <h3>My GitHub Stats</h3>
+<br />
 <img
   align="right"
   alt="Coding"
@@ -178,7 +173,7 @@
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristhian67&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="anii693"
+    alt="Cristhian67"
   />
 </p>
 
@@ -187,7 +182,7 @@
   &nbsp;<img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=Cristhian67&show_icons=true&theme=dark&locale=en"
-    alt="anii693"
+    alt="Cristhian67"
   />
 </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -196,7 +191,7 @@
   <img
     align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhian67&theme=dark"
-    alt="anii693"
+    alt="Cristhian67"
   />
 </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
